@@ -1,4 +1,10 @@
 body{
     color: gold;
     background: blue;
+margin: 1px;
+}
+
+header {
+    border-bottom: solid 3px gold;
+margin: 20px;
 }
