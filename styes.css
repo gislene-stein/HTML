@@ -5,6 +5,20 @@ margin: 1px;
 }
 
 header {
-    border-bottom: solid 3px gold;
+    border-bottom: solid 3px rgb(81, 255, 0);
 margin: 20px;
+font-size: 32px;
+color: rgba(81, 255, 0 );
+}
+
+section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div{
+margin-right: ;
 }
